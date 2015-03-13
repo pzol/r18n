@@ -1,0 +1,14 @@
+[package]
+
+name = "r18n"
+version = "0.0.1"
+description = "Internationalisation library for Rust"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+authors = ["Piotr Zolnierek <pzolnierek@gmail.com>"]
+repository = "https://github.com/pzol/r18n"
+documentation = "https://github.com/pzol/r18n"
+homepage = "https://github.com/pzol/r18n"
+
+[dependencies]
+toml = "*"
