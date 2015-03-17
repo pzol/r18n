@@ -1,0 +1,9 @@
+[pax]
+guests = [
+    "1 guest",
+    "%d guests"
+]
+
+[tlc]
+FRA = { name = "Frankfurt" }
+
